@@ -1,0 +1,14 @@
+E:\VS code\Bank_Account\bin\Debug\net9.0\Bank_Account.exe
+E:\VS code\Bank_Account\bin\Debug\net9.0\Bank_Account.deps.json
+E:\VS code\Bank_Account\bin\Debug\net9.0\Bank_Account.runtimeconfig.json
+E:\VS code\Bank_Account\bin\Debug\net9.0\Bank_Account.dll
+E:\VS code\Bank_Account\bin\Debug\net9.0\Bank_Account.pdb
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.AssemblyInfoInputs.cache
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.AssemblyInfo.cs
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.csproj.CoreCompileInputs.cache
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.dll
+E:\VS code\Bank_Account\obj\Debug\net9.0\refint\Bank_Account.dll
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.pdb
+E:\VS code\Bank_Account\obj\Debug\net9.0\Bank_Account.genruntimeconfig.cache
+E:\VS code\Bank_Account\obj\Debug\net9.0\ref\Bank_Account.dll
